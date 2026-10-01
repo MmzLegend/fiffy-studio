@@ -1,0 +1,5 @@
+Generated with the built-in image-generation tool.
+
+Original direction: Create one finished professional horizontal logo for FIFFY STUDIO, an interior/exterior architectural design and 3D visualization studio. Exact wordmark: fiffy, lowercase, with small widely spaced STUDIO underneath. Custom readable rounded geometric letterforms; repeated f letters suggest graceful architectural arches or folded spatial forms. Compact folded double-f architectural monogram on the left. Lime #d5ff79 mark and ivory #f1f2e9 lettering.
+
+Final refinement prompt: Refine this Fiffy Studio logo into a pristine production asset. Preserve exactly its word 'fiffy', STUDIO subtitle, folded double arch monogram, and horizontal arrangement. Remove ALL distress, specks, holes, rough texture, outlines, shadows and gradients. Perfectly smooth solid vector-style shapes: monogram solid lime #d5ff79, letters solid ivory #f1f2e9. True transparent background, immaculate alpha edges. Tight crop with only 3% clear padding around the whole mark; no wide empty left/right margins. Clean professional readable logo suitable for a website header.
